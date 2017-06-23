@@ -444,3 +444,7 @@ patching file js/varien/payment.js
 patching file skin/frontend/base/default/js/opcheckout.js
 
 
+2017-06-23 09:08:34 UTC | SUPEE-8167 | EE_1.13.1.0 | v1 | b724208663fef6daacf8fb2b4317471a7a41486e | Thu Mar 10 16:13:25 2016 +0200 | 97d160644714ce235a453ccf8ebdaae6033ef65d..b724208663fef6daacf8fb2b4317471a7a41486e
+patching file app/code/core/Mage/Paypal/Model/Ipn.php
+
+
